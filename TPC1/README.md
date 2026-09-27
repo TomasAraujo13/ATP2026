@@ -23,6 +23,6 @@ Este jogo testa a capacidade de segmentar um desenho em partes independentes. O 
 
 **Links para as resoluções:**
 
--**Maze level 10:**https://blockly.games/maze?lang=en&level=10&&skin=0#da6uso
+- **Maze level 10:** https://blockly.games/maze?lang=en&level=10&&skin=0#da6uso
 
--**Barco à vela no Turtle:**https://blockly.games/turtle?lang=en&level=10#fo3eww
+- **Barco à vela no Turtle:** https://blockly.games/turtle?lang=en&level=10#fo3eww
