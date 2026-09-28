@@ -80,11 +80,3 @@ else:
             print("Resposta inválida.")
             print("Por favor escreva um das 3 instruções referidas acima.")
 
-
-
-
-
-            
-
-
-    

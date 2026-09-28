@@ -17,7 +17,8 @@ Neste jogo, o computador, através da aplicação do algoritmo de pesquisa biná
 
 O segundo modo demonstrou ser mais desafiante. Ao contrário do primeiro modo, em que o computador se limita a validar o palpite do utilizador face a um valor gerado aleatoriamente, no segundo é exigida a programação da inteligência do sistema. Através do cálculo do ponto médio do intervalo a cada iteração, o programa ajusta os seus limites para acertar na resposta da forma mais eficiente e rápida.
 
+**Resolução:** 
 
-
+[text](tpc2.py)
 
 
